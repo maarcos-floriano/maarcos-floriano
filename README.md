@@ -1,6 +1,6 @@
 ### Olá eu sou o Marcos Floriano 👋
 
-- 👨‍💻 Desenvolvedor Front-end | Back-end
+- 👨‍💻 Desenvolvedor Full-Stack
 - :office: São Paulo Tech School
 
 <div align="center">
