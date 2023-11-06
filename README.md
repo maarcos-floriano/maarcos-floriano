@@ -3,10 +3,11 @@
 - 👨‍💻 Desenvolvedor Full-Stack
 - :office: São Paulo Tech School
 
-<div align="center">
-  <a href="https://github.com/maarcos-floriano">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=maarcos-floriano&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcos-floriano&layout=compact&langs_count=7&theme=darcula"/>
+<div>
+    <!-- Stats Card -->
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=maarcos-floriano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true%22/%3E"> <br>
+    <!-- Language Card -->
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcos-floriano&layout=compact&langs_count=7&theme=midnight-purple%22/%3E">
 </div>
   
   <div style="display: inline_block"><br>
