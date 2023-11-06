@@ -1,13 +1,12 @@
-### Olá eu sou o Marcos Floriano 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-- 👨‍💻 Desenvolvedor Full-Stack
-- :office: São Paulo Tech School
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8Bsize=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Marcos+Floriano;Tenho+20+anos;Aluno+da+São+Paulo+Tech+School;Um+Futuro+Desenvolvedor+Full-Stack;Seja+Bem-vindo+ao+meu+mundo!+:%29)](https://git.io/typing-svg)
 
-<div>
+<div align="center">
     <!-- Stats Card -->
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=maarcos-floriano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true%22/%3E"> <br>
+    <img height="190px" width="400em" src="https://github-readme-stats.vercel.app/api?username=maarcos-floriano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true%22/%3E">
     <!-- Language Card -->
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcos-floriano&layout=compact&langs_count=7&theme=midnight-purple%22/%3E">
+    <img height="180px" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcos-floriano&layout=compact&langs_count=7&theme=midnight-purple%22/%3E">
 </div>
   
   <div style="display: inline_block"><br>
