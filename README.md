@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8Bsize=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Marcos+Floriano;Tenho+20+anos;Aluno+da+São+Paulo+Tech+School;Um+Futuro+Desenvolvedor+Full-Stack;Seja+Bem-vindo+ao+meu+mundo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8Bsize=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Marcos+Floriano;Tenho+21+anos;Aluno+da+São+Paulo+Tech+School;Um+Futuro+Desenvolvedor+Full-Stack;Seja+Bem-vindo+ao+meu+mundo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
     <!-- Stats Card -->
